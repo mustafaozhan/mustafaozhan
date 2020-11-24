@@ -20,3 +20,5 @@ You can find me on [![Twitter][1.2]][1]and [![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/nahzoafatsum
 [2]: https://www.linkedin.com/in/mustafaozhan
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
