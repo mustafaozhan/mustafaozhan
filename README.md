@@ -6,4 +6,4 @@
 - :hatching_chick: I’m excited about Kotlin Multi Platform :muscle:
 
 <!-- Profile Cards -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafaozhan&count_private=true&include_all_commits=true&theme=react&line_height=27&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaozhan&line_height=26&theme=react&hide=css,python)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafaozhan&count_private=true&include_all_commits=true&theme=react&line_height=27&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaozhan&line_height=26&theme=react&hide=css,python,lua,shell,ruby)](https://github.com/anuraghazra/github-readme-stats)
