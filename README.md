@@ -5,8 +5,5 @@
 - :penguin: I’m a Linux hobbyist
 - :hatching_chick: I’m excited about Kotlin Multi Platform :muscle:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafaozhan&count_private=true&include_all_commits=true&theme=react&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustafaozhan&theme=react&hide_border=true)](https://git.io/streak-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafaozhan&count_private=true&include_all_commits=true&theme=react&hide_border=true&show_icons=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaozhan&theme=react&hide_border=true&hide=css,python,lua,shell,ruby)](https://github.com/anuraghazra/github-readme-stats)
